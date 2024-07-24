@@ -36,7 +36,7 @@
                 <form action="/login" method="post" novalidate>
                     @csrf
 
-                    <h4 class="fw-bold">Cashed</h4>
+                    <h4 class="fw-bold">ShopShopShop</h4>
                     <div class="mb-3">Masukkan detail akun anda untuk memulai</div>
 
                     <div class="mb-3">
